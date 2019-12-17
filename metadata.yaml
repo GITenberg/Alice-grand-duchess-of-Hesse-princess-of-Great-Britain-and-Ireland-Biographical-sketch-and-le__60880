@@ -1,0 +1,49 @@
+_repo: Alice-grand-duchess-of-Hesse-princess-of-Great-Britain-and-Ireland-Biographical-sketch-and-le__60880
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Sell, Karl
+    birthdate: 1845
+    deathdate: 1914
+    gutenberg_agent_id: '51091'
+    url: http://www.gutenberg.org/2009/agents/51091
+  - agent_name: Helena Augusta Victoria, Princess Christian of Schleswig-Holstein
+    alias: Helena Augusta Victoria, Princess, daughter of Victoria, Queen of Great
+      Britain
+    birthdate: 1846
+    deathdate: 1923
+    gutenberg_agent_id: '51174'
+    url: http://www.gutenberg.org/2009/agents/51174
+    wikipedia: https://en.wikipedia.org/wiki/Princess_Helena_of_the_United_Kingdom
+creator:
+  author:
+    agent_name: Alice, Grand Duchess, consort of Ludwig IV, Grand Duke of Hesse-Darmstadt
+    aliases:
+    - Alice, Princess of Great Britain and Ireland
+    - Alice, Princess, Grand Duchess of Hesse-Darmstadt
+    - Alice Maud Mary, Grand Duchess, consort of Ludwig IV, Grand Duke of Hesse-Darmstadt
+    - Alice, consort of Louis IV, Grand Duke of Hesse-Darmstadt
+    birthdate: 1843
+    deathdate: 1878
+    gutenberg_agent_id: '51177'
+    url: http://www.gutenberg.org/2009/agents/51177
+    wikipedia: https://en.wikipedia.org/wiki/Princess_Alice_of_the_United_Kingdom
+description: ''
+gutenberg_issued: '2019-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DD'
+- !lcc 'DA'
+- !lcsh 'Alice, Grand Duchess, consort of Ludwig IV, Grand Duke of Hesse-Darmstadt,
+  1843-1878'
+- !lcsh 'Princesses -- Great Britain -- Biography'
+- GITenberg
+title: "Alice, grand duchess of Hesse, princess of Great Britain and Ireland\r\nBiographical\
+  \ sketch and letters. With portrait."
+url: http://www.gutenberg.org/ebooks/60880
